@@ -1,4 +1,4 @@
-# NYC Solar Investment Screening
+# SolarIQ NYC
 
 ## Overview
 
