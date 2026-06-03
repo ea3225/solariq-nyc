@@ -90,6 +90,8 @@ nyc-solar-investment-screening/
 │   └── generate_map.py
 └── examples/
     └── solar_potential_map.html
+└── presentation/
+    └── solarIQ_presentation.pdf
 ```
 
 ---
