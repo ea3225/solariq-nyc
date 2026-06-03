@@ -135,7 +135,3 @@ Potential extensions include:
 * Geospatial Analysis
 * Financial Modeling
 * Renewable Energy Analytics
-
-```
-```
-
