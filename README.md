@@ -2,11 +2,7 @@
 
 ## Overview
 
-This project was developed during a sustainability-focused hackathon to identify and prioritize rooftop solar investment opportunities across New York City.
-
-The platform combines building-level property information, rooftop area estimation, solar energy production assumptions, and financial feasibility analysis to identify buildings where solar installations are likely to generate attractive economic returns.
-
-The goal is to support data-driven decision making for property owners, communities, and policymakers seeking to accelerate renewable energy adoption in urban environments.
+SolarIQ NYC is an AI-powered decision-support platform that helps New York City property owners identify, evaluate, and finance rooftop solar installations. By combining building data, rooftop estimation, energy generation modeling, incentive optimization, and geospatial visualization, the platform transforms underutilized rooftops into actionable renewable energy investment opportunities.
 
 ---
 
@@ -102,13 +98,15 @@ nyc-solar-investment-screening/
 
 This project was developed as part of a hackathon by a multidisciplinary team.
 
-My contributions focused on:
+My contributions focused on the analytical backbone of the platform, including:
 
-* Solar potential estimation
-* Financial feasibility modeling
-* Building screening methodology
-* Data processing and analysis
-* Geospatial opportunity identification
+- Building-level solar potential estimation
+- Rooftop area and system sizing methodology
+- Financial feasibility modeling
+- Payback period analysis
+- Economic impact estimation
+- Geospatial opportunity mapping
+- Data processing and screening of NYC building datasets
 
 Additional team members contributed to the model development, idea generation, user interface, demo development, and project presentation.
 
